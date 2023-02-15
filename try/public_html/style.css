@@ -1,0 +1,40 @@
+.container-fluid {
+  margin-top: 50px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  cursor: pointer;
+}
+
+.modal-header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.modal-header .close {
+  color: #fff;
+}
+
+.modal-dialog {
+  max-width: 1200px;
+}
+body{
+    padding-top: 70px;
+}
+.jumbotron{
+ color: #2c3e50;
+ background:#ecf0f1;
+}
+.navbar-inverse{
+    background: #2c3e50;
+}
+.enlarge-photo {
+  cursor: pointer;
+}
+
+.enlarged-photo {
+  max-height: 80vh;
+  max-width: 80vw;
+}
